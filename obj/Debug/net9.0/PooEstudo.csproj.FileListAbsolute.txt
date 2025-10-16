@@ -12,3 +12,4 @@ C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\refint\PooE
 C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\PooEstudo.pdb
 C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\PooEstudo.genruntimeconfig.cache
 C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\ref\PooEstudo.dll
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\PooEstudo.sourcelink.json

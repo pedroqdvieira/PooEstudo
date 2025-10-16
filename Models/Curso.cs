@@ -15,5 +15,25 @@ namespace PooEstudo.Models
         {
             Alunos.Add(aluno);
         }
+
+        public bool RemoverAluno(Pessoa aluno)
+        {
+            return Alunos.Remove(aluno);
+        }
+
+        public int ObterQuantidadeDeAlunosMatriculados()
+        {
+            int quantidade = Alunos.Count;
+            return quantidade;
+        }
+
+        public void ListarAlunos()
+        {
+            System.Console.WriteLine($"Alunos do curso de {Nome}");
+            foreach (Pessoa aluno in Alunos)
+            {
+                System.Console.WriteLine(aluno.NomeCompleto);
+            }
+        }
     }
 }

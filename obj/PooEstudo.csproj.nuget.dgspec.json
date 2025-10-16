@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\PooEstudo\\PooEstudo.csproj": {}
+    "c:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\PooEstudo\\PooEstudo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\PooEstudo\\PooEstudo.csproj": {
+    "c:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\PooEstudo\\PooEstudo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\PooEstudo\\PooEstudo.csproj",
+        "projectUniqueName": "c:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\PooEstudo\\PooEstudo.csproj",
         "projectName": "PooEstudo",
-        "projectPath": "C:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\PooEstudo\\PooEstudo.csproj",
+        "projectPath": "c:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\PooEstudo\\PooEstudo.csproj",
         "packagesPath": "C:\\Users\\pedro.vieira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\PooEstudo\\obj\\",
+        "outputPath": "c:\\Users\\pedro.vieira\\Documents\\ESTUDO_C#\\PooEstudo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
