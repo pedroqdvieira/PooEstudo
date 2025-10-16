@@ -1,14 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Diagnostics.Tracing;
 using PooEstudo.Models;
 
-Pessoa p1 = new Pessoa();
-p1.Nome = "Pedro";
-p1.Sobrenome = "Quinellato";
+Pessoa p1 = new Pessoa(nome: "Pedro", sobrenome: "Quinellato");
 p1.Idade = 24;
 
-Pessoa p2 = new Pessoa();
-p2.Nome = "Eduardo";
-p2.Sobrenome = "Parteli";
+Pessoa p2 = new Pessoa("Eduardo", "Parteli");
 p2.Idade = 22;
 
 
