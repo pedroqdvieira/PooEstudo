@@ -1,0 +1,14 @@
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\bin\Debug\net9.0\PooEstudo.exe
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\bin\Debug\net9.0\PooEstudo.deps.json
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\bin\Debug\net9.0\PooEstudo.runtimeconfig.json
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\bin\Debug\net9.0\PooEstudo.dll
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\bin\Debug\net9.0\PooEstudo.pdb
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\PooEstudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\PooEstudo.AssemblyInfoInputs.cache
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\PooEstudo.AssemblyInfo.cs
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\PooEstudo.csproj.CoreCompileInputs.cache
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\PooEstudo.dll
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\refint\PooEstudo.dll
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\PooEstudo.pdb
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\PooEstudo.genruntimeconfig.cache
+C:\Users\pedro.vieira\Documents\ESTUDO_C#\PooEstudo\obj\Debug\net9.0\ref\PooEstudo.dll

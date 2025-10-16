@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PooEstudo/1.0.0": {
+        "runtime": {
+          "PooEstudo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PooEstudo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
